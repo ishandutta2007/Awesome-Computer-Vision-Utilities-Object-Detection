@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection?style=social" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection" alt="GitHub Issues" /></a>
@@ -195,11 +195,13 @@ Contributions are welcome! Follow these steps to submit additions or updates:
 
 ## 💖 Support & Share
 
+A huge **thank you** to all contributors, developers, and researchers advancing the frontiers of computer vision, real-time object detection, and visual AI! 🌟
+
 If you find this curated collection useful for your research, team, or production pipelines, please consider supporting the project:
 
 - ⭐ **Star this repository** on GitHub to help engineers and researchers discover it!
-- 📢 **Share with your network** on X/Twitter, LinkedIn, and Reddit.
-- ☕ **Sponsor the author** on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007) to help maintain awesome open-source developer tooling!
+- 🍴 **Fork & Share** it with your network, team, and communities on X/Twitter, LinkedIn, and Reddit.
+- ☕ **Buy me a coffee / Sponsor** my open-source work via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to help maintain awesome developer tools!
 
 [![Sponsor @ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
 
@@ -207,7 +209,7 @@ If you find this curated collection useful for your research, team, or productio
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection&Date)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Computer-Vision-Utilities-Object-Detection&type=date&legend=top-left)
 
 ---
 
